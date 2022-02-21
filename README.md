@@ -27,6 +27,9 @@ Market data dashboard
 This project is written in python. The required libraries are as follows
 pathlib ver 2.3.6, pandas, hvplots.pandas, sys, pymysql
 
+## GUI address
+http://iamsha001.club/columbia/projectone/
+
 
 ---
 
